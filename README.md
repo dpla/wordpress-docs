@@ -2,33 +2,65 @@
 
 ## How to edit a page
 
-### Step 1
-
-After logging in to the Wordpress dashboard, click **Pages** from left menu
+1. After logging in to the Wordpress dashboard, click **Pages** from left menu
 
 ![step1](/images/page/edit/step1.png?raw=true "Navigate to WP Dashboard and click Pages from left menu")
 
-### Step 2
-
-Hover over the page you would like to edit and click **Edit with Elementor**
+2. Hover over the page you would like to edit and click **Edit with Elementor**
 
 ![step2](/images/page/edit/step2.png?raw=true "Hover over page and click Edit with Elementor")
 
-### Step 3
-
-Edit page by dragging elements from the left side menu or clicking on the section of the page you would like to edit
+3. Edit page by dragging elements from the left side menu or clicking on the section of the page you would like to edit
 
 ![step3](/images/page/edit/step3.png?raw=true "Edit page by dragging elements or clicking on the section of the page that should be edited")
 
 
 ## How to create a new page
 
-### Step 1
+1. After logging in to the Wordpress dashboard, hover over **Pages** in left menu and click **Add New**
 
-### Step 2
+![step1](/images/page/create/step1.png?raw=true "Pages > Add New")
 
-### Step 3
+2. Click the blue **Edit with Elementor** button in the top menu
 
-### Step 4
+![step2](/images/page/create/step2.png?raw=true "Click edit with elementor button")
+
+3. Edit page by dragging elements from the left side menu or click on the middle section icons
+
+![step3](/images/page/create/step3.png?raw=true "Edit page by dragging elements from the left side menu or click on the middle section icons")
+
+From the available icons in the center of the page you can choose from `+`, a file folder, or `S`. These icons are surrounded by a dotted border that shows where the new content will go.
+
+1. If you click the `+` icon, you'll have the option to pick the structure, which you can then drag Elementor elements (like Heading, Image, Tex Editor) into 
+
+![step4-p1](/images/page/create/step4-part1.png?raw=true "Edit page by dragging elements from the left side menu or click on the middle section icons")
+
+2. If you click the Starter Templates icon, that looks like a white `S`, click the **Blocks** tab to choose a page section template 
+
+![step4-p2](/images/page/create/step4-part2.png?raw=true "Edit page by dragging elements from the left side menu or click on the middle section icons")
 
 ## How to duplicate a page
+
+The Wordpress plugin, **Duplicate Page** should be installed and activated in order to complete these steps.
+
+1. After logging in to the Wordpress dashboard, click **Pages** from left menu
+
+![step1](/images/page/edit/step1.png?raw=true "Navigate to WP Dashboard and click Pages from left menu")
+
+2. Hover over the page you would like to duplicate and click the blue **Duplicate This** button
+
+![step1](/images/page/duplicate/step1.png?raw=true "Hover over the page you would like to duplicate and click Duplicate This")
+
+3. Once the page is duplicated, another page ***with the same name*** will be created. Be sure to check the **Date** before editing any of the pages, so that the original isn't edited by accident. 
+
+![step2](/images/page/duplicate/step2.png?raw=true "Edit new duplicated page")
+
+## How to delete a page
+
+1. After logging in to the Wordpress dashboard, click **Pages** from left menu
+
+![step1](/images/page/edit/step1.png?raw=true "Navigate to WP Dashboard and click Pages from left menu")
+
+2. Hover over the page you would like to delete and click the red **Trash** button
+
+![step1](/images/page/delete/step1.png?raw=true "Hover over the page you would like to delete and click Trash")
