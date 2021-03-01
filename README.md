@@ -4,7 +4,7 @@
 
 ### Step 1
 
-After logging in to the Wordpress dashboard, click Pages from left menu
+After logging in to the Wordpress dashboard, click **Pages** from left menu
 
 ![step1](/images/page/edit/step1.png?raw=true "Navigate to WP Dashboard and click Pages from left menu")
 
@@ -22,5 +22,13 @@ Edit page by dragging elements from the left side menu or clicking on the sectio
 
 
 ## How to create a new page
+
+### Step 1
+
+### Step 2
+
+### Step 3
+
+### Step 4
 
 ## How to duplicate a page
