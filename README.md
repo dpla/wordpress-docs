@@ -40,3 +40,27 @@ From the available icons in the center of the page you can choose from `+`, a fi
 ![step4-p2](/images/page/create/step4-part2.png?raw=true "Edit page by dragging elements from the left side menu or click on the middle section icons")
 
 ## How to duplicate a page
+
+The Wordpress plugin, **Duplicate Page** should be installed and activated in order to complete these steps.
+
+1. After logging in to the Wordpress dashboard, click **Pages** from left menu
+
+![step1](/images/page/edit/step1.png?raw=true "Navigate to WP Dashboard and click Pages from left menu")
+
+2. Hover over the page you would like to duplicate and click the blue **Duplicate This** button
+
+![step1](/images/page/duplicate/step1.png?raw=true "Hover over the page you would like to duplicate and click Duplicate This")
+
+3. Once the page is duplicated, another page ***with the same name*** will be created. Be sure to check the **Date** before editing any of the pages, so that the original isn't edited by accident. 
+
+![step2](/images/page/duplicate/step2.png?raw=true "Edit new duplicated page")
+
+## How to delete a page
+
+1. After logging in to the Wordpress dashboard, click **Pages** from left menu
+
+![step1](/images/page/edit/step1.png?raw=true "Navigate to WP Dashboard and click Pages from left menu")
+
+2. Hover over the page you would like to delete and click the red **Trash** button
+
+![step1](/images/page/delete/step1.png?raw=true "Hover over the page you would like to delete and click Trash")
