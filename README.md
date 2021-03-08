@@ -64,3 +64,38 @@ The Wordpress plugin, **Duplicate Page** should be installed and activated in or
 2. Hover over the page you would like to delete and click the red **Trash** button
 
 ![step1](/images/page/delete/step1.png?raw=true "Hover over the page you would like to delete and click Trash")
+
+
+## How to update the navigation menu / navbar
+
+1. After logging in to the Wordpress dashboard, in the left side menu hover over **Appearance** and click **Menus** 
+
+![step1](/images/menu/step1.png?raw=true "Navigate to menu items")
+
+2. If there are multiple menus available there will be a dropdown in order for you to choose which menu you'd like to edit. Otherwise, the **Ebooks Site** menu will be selected.
+
+![step2](/images/menu/step2.png?raw=true "Confirm menu name")
+
+### Adding menu items
+
+1. Under **Add menu items** there are multiple options to choose from, with the most likely being **Pages**.
+
+![menu](/images/menu/add/menu.png?raw=true "Show menu to add pages")
+
+2. Select the pages that you would like to add to the menu by using the checkboxes and click **Add to Menu**.
+
+![step1](/images/menu/add/step1.png?raw=true "Select menu item to add")
+
+3. Choose the order of the menu items under **Menu Structure** by dragging the items in to order.
+
+![step2](/images/menu/add/step2.png?raw=true "Drag and drop items")
+
+4. Click the blue **Save Menu** button.
+
+### Deleting menu items
+
+1. Select the menu item from **Menu structure** by clicking the arrow to the right of the menu item name. Click the red **Remove** option and confirm it's removal in the popup.
+
+![step1](/images/menu/delete/step1.png?raw=true "Select menu item to delete")
+
+3. Click the blue **Save Menu** button.
