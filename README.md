@@ -78,11 +78,7 @@ The Wordpress plugin, **Duplicate Page** should be installed and activated in or
 
 ### Adding menu items
 
-1. Under **Add menu items** there are multiple options to choose from, with the most likely being **Pages**.
-
-![menu](/images/menu/add/menu.png?raw=true "Show menu to add pages")
-
-2. Select the pages that you would like to add to the menu by using the checkboxes and click **Add to Menu**.
+1. Under **Add menu items** there are multiple options to choose from, with the most likely being **Pages**. Select the pages that you would like to add to the menu by using the checkboxes and click **Add to Menu**.
 
 ![step1](/images/menu/add/step1.png?raw=true "Select menu item to add")
 
