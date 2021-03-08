@@ -1,5 +1,10 @@
-# wordpress-docs
+##### Table of Contents 
+### Pages 
+[How to edit an existing page](#editpage)  
+[How to add a new page](#addpage)  
 
+
+<a name="editpage"/>
 ## How to edit a page
 
 1. After logging in to the Wordpress dashboard, click **Pages** from left menu
@@ -14,7 +19,7 @@
 
 ![step3](/images/page/edit/step3.png?raw=true "Edit page by dragging elements or clicking on the section of the page that should be edited")
 
-
+<a name="addpage"/>
 ## How to create a new page
 
 1. After logging in to the Wordpress dashboard, hover over **Pages** in left menu and click **Add New**
@@ -82,11 +87,11 @@ The Wordpress plugin, **Duplicate Page** should be installed and activated in or
 
 ![step1](/images/menu/add/step1.png?raw=true "Select menu item to add")
 
-3. Choose the order of the menu items under **Menu Structure** by dragging the items in to order.
+2. Choose the order of the menu items under **Menu Structure** by dragging the items in to order.
 
 ![step2](/images/menu/add/step2.png?raw=true "Drag and drop items")
 
-4. Click the blue **Save Menu** button.
+3. Click the blue **Save Menu** button.
 
 ### Deleting menu items
 
@@ -94,4 +99,4 @@ The Wordpress plugin, **Duplicate Page** should be installed and activated in or
 
 ![step1](/images/menu/delete/step1.png?raw=true "Select menu item to delete")
 
-3. Click the blue **Save Menu** button.
+2. Click the blue **Save Menu** button.
