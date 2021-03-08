@@ -1,11 +1,24 @@
-##### Table of Contents 
+## Table of Contents 
 ### Pages 
-[How to edit an existing page](#editpage)  
-[How to add a new page](#addpage)  
+[Edit an existing page](#editpage)  
+[Add a new page](#addpage)  
+[Duplicate a page](#duplicatepage)  
+[Delete a page](#deletepage)  
 
+#### Navigation Menus
+[How to update a menu](#updatemenu)
+[Adding menu items](#addmenuitems)
+[Deleting menu items](#deletemenuitems)
 
 <a name="editpage"/>
-## How to edit a page
+
+## Pages
+
+---
+
+### How to edit a page
+
+---
 
 1. After logging in to the Wordpress dashboard, click **Pages** from left menu
 
@@ -20,7 +33,10 @@
 ![step3](/images/page/edit/step3.png?raw=true "Edit page by dragging elements or clicking on the section of the page that should be edited")
 
 <a name="addpage"/>
-## How to create a new page
+
+### How to create a new page
+
+---
 
 1. After logging in to the Wordpress dashboard, hover over **Pages** in left menu and click **Add New**
 
@@ -44,7 +60,11 @@ From the available icons in the center of the page you can choose from `+`, a fi
 
 ![step4-p2](/images/page/create/step4-part2.png?raw=true "Edit page by dragging elements from the left side menu or click on the middle section icons")
 
-## How to duplicate a page
+<a name="duplicatepage"/>
+
+### How to duplicate a page
+
+---
 
 The Wordpress plugin, **Duplicate Page** should be installed and activated in order to complete these steps.
 
@@ -60,7 +80,11 @@ The Wordpress plugin, **Duplicate Page** should be installed and activated in or
 
 ![step2](/images/page/duplicate/step2.png?raw=true "Edit new duplicated page")
 
-## How to delete a page
+<a name="deletepage"/>
+
+### How to delete a page
+
+---
 
 1. After logging in to the Wordpress dashboard, click **Pages** from left menu
 
@@ -71,7 +95,15 @@ The Wordpress plugin, **Duplicate Page** should be installed and activated in or
 ![step1](/images/page/delete/step1.png?raw=true "Hover over the page you would like to delete and click Trash")
 
 
-## How to update the navigation menu / navbar
+## Navigation menus
+
+---
+
+<a name="updatemenu"/>
+
+### How to update the navigation menu / navbar
+
+---
 
 1. After logging in to the Wordpress dashboard, in the left side menu hover over **Appearance** and click **Menus** 
 
@@ -81,7 +113,11 @@ The Wordpress plugin, **Duplicate Page** should be installed and activated in or
 
 ![step2](/images/menu/step2.png?raw=true "Confirm menu name")
 
+<a name="addmenuitems"/>
+
 ### Adding menu items
+
+---
 
 1. Under **Add menu items** there are multiple options to choose from, with the most likely being **Pages**. Select the pages that you would like to add to the menu by using the checkboxes and click **Add to Menu**.
 
@@ -93,7 +129,11 @@ The Wordpress plugin, **Duplicate Page** should be installed and activated in or
 
 3. Click the blue **Save Menu** button.
 
+<a name="deletemenuitems"/>
+
 ### Deleting menu items
+
+---
 
 1. Select the menu item from **Menu structure** by clicking the arrow to the right of the menu item name. Click the red **Remove** option and confirm it's removal in the popup.
 
