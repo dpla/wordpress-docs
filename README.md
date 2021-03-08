@@ -1,20 +1,21 @@
 ## Table of Contents 
-### Pages 
+#### Pages 
 [Edit an existing page](#editpage)  
 [Add a new page](#addpage)  
 [Duplicate a page](#duplicatepage)  
 [Delete a page](#deletepage)  
 
 #### Navigation Menus
-[How to update a menu](#updatemenu)
-[Adding menu items](#addmenuitems)
-[Deleting menu items](#deletemenuitems)
+[How to update a menu](#updatemenu)  
+[Adding menu items](#addmenuitems)  
+[Deleting menu items](#deletemenuitems)  
+
+#### Misc
+[How to change an image on a page](#editimage)
 
 <a name="editpage"/>
 
 ## Pages
-
----
 
 ### How to edit a page
 
@@ -140,3 +141,13 @@ The Wordpress plugin, **Duplicate Page** should be installed and activated in or
 ![step1](/images/menu/delete/step1.png?raw=true "Select menu item to delete")
 
 2. Click the blue **Save Menu** button.
+
+
+## Misc
+<a name="editimage"/>
+
+### How to edit an image on a page
+
+---
+1. Follow the instructions for [editing an existing page](#editpage).
+2.  
