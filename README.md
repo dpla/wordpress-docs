@@ -150,4 +150,15 @@ The Wordpress plugin, **Duplicate Page** should be installed and activated in or
 
 ---
 1. Follow the instructions for [editing an existing page](#editpage).
-2.  
+2. Click the image on the page that you'd like to change. In the lefthand Elementor menu hover over the image preview and click the image.
+
+![step1](/images/misc/edit-image/step1.png?raw=true "Select image to edit")
+
+3. A modal will appear that will give you options: **Upload, Media Library, or Free Images from Pixabay**. After choosing an option and an image, click the blue **Insert Media** button.
+
+![step2](/images/misc/edit-image/step2.png?raw=true "Change image")
+
+4. Save your changes by clicking the green **Update** button.
+
+![step3](/images/misc/edit-image/step3.png?raw=true "Save changes")
+
